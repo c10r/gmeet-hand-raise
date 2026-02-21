@@ -2,6 +2,10 @@
 
 Chrome extension that replaces Google Meet's ambiguous hand icon with a clear "raise hand" person icon.
 
+## Before vs After
+
+![Before vs After](assets/before_after.png)
+
 ## Install
 
 1. Open `chrome://extensions`.
